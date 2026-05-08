@@ -5,5 +5,5 @@ public class Filme {
     double avaliacao;
     int totalDeAvaliacoes;
     int duracaoEmMinutos;
-    //todo este codigo acima e o esboco do nosso filme
+    //todo este codigo acima e o esboco do nosso filme!
 }
